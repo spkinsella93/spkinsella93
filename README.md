@@ -11,7 +11,7 @@ An end-to-end analysis of San Diego's professional sports market across franchis
 
 **Tools:** Power BI | Excel | DAX | Deneb / Vega-Lite
 
-[View Project](YOUR-REPO-LINK)
+[View Project](https://github.com/spkinsella93/san-diego-sports-analytics)
 
 ## Areas of Interest
 
