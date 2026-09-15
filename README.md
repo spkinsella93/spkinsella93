@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sean Kinsella
 
-<!--
-**spkinsella93/spkinsella93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Strategy & Operations | Business Analytics | MBA
 
-Here are some ideas to get you started:
+Former U.S. Marine Corps officer and operations leader currently completing an Executive MBA at the University of San Diego. I use data, analytics, and emerging technology to tackle ambiguous business problems and turn them into actionable insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Is San Diego a Sports Town?
+An end-to-end analysis of San Diego's professional sports market across franchise value, attendance, ticket pricing, and venue utilization.
+
+**Tools:** Power BI | Excel | DAX | Deneb / Vega-Lite
+
+[View Project](YOUR-REPO-LINK)
+
+## Areas of Interest
+
+- Strategy & Operations
+- Business Analytics
+- AI-enabled organizations
+- Data visualization and decision support
+
+## Tools
+
+Python | Power BI | Excel | R | SQL | GitHub
